@@ -1,5 +1,5 @@
 Tasks for today!
- Task 1
- Task 2
- Task 3
- Task 4
+ Task 1 --completed
+ Task 2 --completed
+ Task 3 --completed
+ Task 4 --completed
