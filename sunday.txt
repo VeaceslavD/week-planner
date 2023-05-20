@@ -5,4 +5,4 @@ Tasks for today!
  Task 4 --completed
 
 Extra Task
- Task 5 
+ Task 5 --completed
